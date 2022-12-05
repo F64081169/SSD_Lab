@@ -1,1 +1,1 @@
-# LAB2: Implementing READ/WRITE through UART
+# LAB1: Implementing READ/WRITE through UART
